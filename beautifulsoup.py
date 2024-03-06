@@ -30,4 +30,3 @@ print(f'Diferenca agora: {valorDiferenca.get_text()}{valorPorcentagemDif.get_tex
 # Resumo: Soup serve APENAS para paginas estaticas
 # então para conseguir acessar informacoes dinamicas
 # usarei o Selenium futuramente
-# ja valeu a experiencia
